@@ -493,6 +493,15 @@ html{
 
 
 
+.gia {
+    font-family: "open sans-serif", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+   @font-face {
+    font-family: "open sans-serif";
+    src: url("OpenSans.ttf") format("truetype");
+  }
+
 
 
 
